@@ -1,3 +1,4 @@
 hello git
 hello from new branch
 Change from main branch
+Different change from conflict-test branch
