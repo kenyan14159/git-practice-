@@ -1,1 +1,1 @@
-hello from conflict branch
+Hello from CONFLICT branch
